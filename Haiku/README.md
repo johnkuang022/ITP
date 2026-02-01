@@ -12,5 +12,5 @@ The poem in the recording is found on the following website:
 
 #### However, I could not figure out how to scale the image since it is taking up so much space on the page.
 
-### After many atttemps I could not get the image to display on the GitHub repository. It says the file path Haiku/haiku.png is not found in the main branch of ITP, but the .png file is definitely in the Haiku folder. 
+### After many attempts, I could not get the image to display on the GitHub repository. It says the file path Haiku/haiku.png is not found in the main branch of ITP, but the .png file is definitely in the Haiku folder. 
 ### The image displays normally when I use the preview function in Textmate to check my work.
