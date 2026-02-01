@@ -1,6 +1,6 @@
 # Haiku Homework 
 
-I found a russian haiku online and referred back to the terminal commands we used in class to create an .aiff file in the documents folder. I then dragged that .aiff file into the Haiku folder and pushed it up to the remote repository. 
+I found a Russian haiku online and referred back to the terminal commands we used in class to create an .aiff file in the documents folder. I then dragged that .aiff file into the Haiku folder and pushed it up to the remote repository. 
 
 The poem in the recording is found on the following website: 
 [Link](https://akitahaiku.com/2017/05/30/100-russian-haiku-for-akita/)
