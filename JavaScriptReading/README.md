@@ -10,4 +10,4 @@
 
 ### Chapter 3:
 1. I learned that a function can have multiple parameters or no parameters at all.
-2. This is probably the most difficult chapter so far. After reading through it once, I'm not sure I can fully grasp all the ideas introduced in this chapter. All of the informatino were new information to me. 
+2. This is probably the most difficult chapter so far. After reading through it once, I'm not sure I can fully grasp all the ideas introduced in this chapter. All of the informatino were new information to me. I think the flexibility of "functions" would take a lot of practice in coding for me to understand.
