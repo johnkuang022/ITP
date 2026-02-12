@@ -12,6 +12,8 @@ My next step was to create a variable named "Celsius," and this variable's value
 Then, I used console.log to print out the result of "Celsius," and then I also added a sentence, "Here is the same temperature, but written CORRECTLY."
 
 ```console.log(Celsius);```
+
+
 ```console.log("Here is the same temperature, but written CORRECTLY.");```
 
 
